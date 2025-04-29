@@ -67,10 +67,6 @@ Bu repository, HikaShop e-ticaret bileşeni için geliştirilmiş 4 farklı Joom
 
 Bu modüller Joomla 3.x ve HikaShop 4.x sürümleriyle test edilmiştir.
 
-## Lisans
-
-Bu modüller GPL v2 veya daha yeni bir sürüm altında lisanslanmıştır.
-
 ## Destek
 
 Sorunlarınız veya önerileriniz için lütfen GitHub üzerinden issue açın.
